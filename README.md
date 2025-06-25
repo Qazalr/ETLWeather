@@ -1,7 +1,6 @@
 Overview
 ========
-
-Welcome to Astronomer! This project was generated after you ran 'astro dev init' using the Astronomer CLI. This readme describes the contents of the project, as well as how to run Apache Airflow on your local machine.
+Apache Airflow is an open-source workflow management platform for data engineering pipelines. It started at Airbnb in October 2014[2] as a solution to manage the company's increasingly complex workflows. 
 
 Project Contents
 ================
